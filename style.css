@@ -1,0 +1,21 @@
+h1{
+    color:rgb(170, 37, 37)
+}
+/*{
+ //   border:solid
+}*/
+.header{
+    background-color:rgb(14, 255, 14);
+    display:flex;
+    justify-content: space-between ;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:nowrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: center;
+}
